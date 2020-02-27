@@ -6,17 +6,19 @@
 .comment {
   font-size: 16px;
 }
-.comment-form  {
+.comment-form {
   margin: 10px 0;
   width: 100%;
 }
 .comment-form input {
-  width: 100%;
+  width: 90%;
   font-size: 14px;
   padding: 10px;
   border: none;
   border-top: 1px solid #efefef;
   color: #999;
+  background-color: #fafafa;
+  outline: none;
 }
 .user {
   font-size: 14px;
