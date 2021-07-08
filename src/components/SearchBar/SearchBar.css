@@ -11,6 +11,9 @@
   font-size: 14px;
 }
 .search-form input {
+  font-size: 14px;
+  width: 200px;
+  padding: 3px;
   text-align: center;
   color: #262626;
 }
@@ -28,4 +31,33 @@
 
 .social {
   width: 50px;
+}
+
+.image-wrapper {
+  display: flex;
+}
+
+.brand-name {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.insta-seperator {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 0.5px solid #c9c9c9;
+}
+
+.fa-instagram {
+  margin-top: 8px;
+  font-size: 32px;
+}
+
+.social-wrapper .social {
+  font-size: 22px;
+}
+
+.fa-search {
+  color: #aaacaf;
+  font-size: 14px;
 }
